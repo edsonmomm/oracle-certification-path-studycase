@@ -24,3 +24,10 @@ The program must not crash as a result of calling this methods.
 ## HR App
 This class contains a single *main* method.<br>
 This where the test will be written, including test scenarios where code may be vulnerable to crash. 
+Create a *print* statement to say the application is starting.
+Create new *Department*.
+Create a few *Employees* and add them to the *Department*.
+Locate an *Employee* by their identification number and call *toString* to print the information abound the *Employee*.
+Get every *Employee* in the *Department* and print their information.
+Print the total *salary* of the *Department*.
+Print the average *salary* of the *Department*.
